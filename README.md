@@ -1,4 +1,4 @@
-# Dio Dino Game
+# Dino Game
 Jogo Dino para Digital Innovation One, usando apenas JS, HTML and CSS.
 
 ![screenshot](example.png?raw=true "screenshot")
